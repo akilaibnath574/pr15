@@ -1,0 +1,45 @@
+.division1{
+    border: 3px dashed black;
+    height: 300px;
+    width: 300px;
+    margin-left: 30px;
+    
+}
+#p1{
+    background-color: blueviolet;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 40px;
+}
+
+#p2{
+    background-color: lime;
+    width: 300px;
+    border: 2px dotted black;
+    text-align-last:right;
+}
+#p3{
+    background-color: blue;
+    max-width: 500px;
+    border: 2px solid black;
+    text-align-last: center;
+}
+.div2{
+    height:300px;
+    width: 300px;
+     border: 5px solid red;
+     padding: 0px 20px;
+     margin-top: 20px;
+     margin-left: 20px;
+     outline: 5px dashed blue;
+     outline-offset: 10px;
+     
+}
+
+
+
+
+
+
+
